@@ -13,7 +13,7 @@ When clicking the box art for the movie, the movie trailer will play.
            and open the file entertainment_center.py
         4. From the file entertainment_center.py press F5,
        or press Run > Run Module
-#Steps to run the application provided by Robert Cannon, thanks Bob!.       
+#Steps to run the application provided by Robert Cannon, thanks Bob!       
 #File - media.py
 #    class Movie
 #    This file used to create the movie blueprint.
